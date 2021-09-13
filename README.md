@@ -6,7 +6,7 @@ This package contains binary executables of the RankRTree (standalone version). 
 >
 >[2]. Jianzhong Qi, Yufei Tao, Yanchuan Chang, and Rui Zhang. "Packing R-trees with space-filling curves: Theoretical optimality, empirical efficiency, and bulk-loading parallelizability." _ACM Transactions on Database Systems (TODS)_ 45.3 (2020): 14:1-14:47.
 
-*Contact*: Jianzhong Qi, jianzhong.qi@unimelb.edu.au
+*Contact*: Jianzhong Qi, <first_name>.<last_name>@unimelb.edu.au
 
 *Copyright*: Permission is hereby given for the use of the executables subject to the following conditions:
 1. The executables will not be sold for profit without explicit written permission from Jianzhong Qi.
